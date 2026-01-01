@@ -61,6 +61,11 @@ h6,
   width: 38px;
   height: 38px;
 }
+.get-in-touch:hover {
+  box-shadow: none;
+  background-color: var(--secondary) !important;
+  color: #ffffff !important;
+}
 
 .btn-sm-square {
   width: 32px;
